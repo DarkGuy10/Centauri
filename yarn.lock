@@ -585,7 +585,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tauri-apps/cli@npm:^1.5.7":
+"@tauri-apps/cli@npm:^1.5.8":
   version: 1.5.8
   resolution: "@tauri-apps/cli@npm:1.5.8"
   dependencies:
@@ -843,7 +843,7 @@ __metadata:
   resolution: "centauri@workspace:."
   dependencies:
     "@tauri-apps/api": "npm:^1.5.2"
-    "@tauri-apps/cli": "npm:^1.5.7"
+    "@tauri-apps/cli": "npm:^1.5.8"
     "@types/react": "npm:^18.2.15"
     "@types/react-dom": "npm:^18.2.7"
     "@vitejs/plugin-react": "npm:^4.0.3"
